@@ -1,3 +1,5 @@
+> **DEPRECATED / ARCHIVED**: This repository has been merged into the canonical **[authshield-lab](https://github.com/anya12forger12-max/authshield-lab)** project. Please use authshield-lab instead. No further updates will be made here.
+
 # AuthShield Lab
 
 ![AuthShield Lab Logo](docs/assets/logo.png)
