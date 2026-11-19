@@ -59,6 +59,6 @@
   },
   "overrides": {
     "http-cache-semantics": "4.3.0",
-    "follow-redirects": "1.16.1"
+    "follow-redirects": "1.16.3"
   }
 }
